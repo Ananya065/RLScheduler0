@@ -1,0 +1,11 @@
+# Virtual environments
+venv/
+venv_linux/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.pyc
+
+# TensorBoard logs & trained artifacts
+tensorboard_logs/
+models/
